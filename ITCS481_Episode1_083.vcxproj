@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="plane1_base.cpp" />
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="TriangleScan_Base.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
